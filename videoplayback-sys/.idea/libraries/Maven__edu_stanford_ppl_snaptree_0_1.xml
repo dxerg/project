@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: edu.stanford.ppl:snaptree:0.1">
+    <CLASSES>
+      <root url="jar://D:/soft/apache-maven-3.8.3/reponsitory_boot/edu/stanford/ppl/snaptree/0.1/snaptree-0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/soft/apache-maven-3.8.3/reponsitory_boot/edu/stanford/ppl/snaptree/0.1/snaptree-0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/soft/apache-maven-3.8.3/reponsitory_boot/edu/stanford/ppl/snaptree/0.1/snaptree-0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
